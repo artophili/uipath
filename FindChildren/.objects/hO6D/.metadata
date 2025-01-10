@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome W3Schools Tryit Editor",
+  "Type": "App",
+  "Id": "hO6DPCV-SEi17Jj4SyyUBw",
+  "Reference": "ynnCWbijBkCTjYGEMdVngg/hO6DPCV-SEi17Jj4SyyUBw",
+  "Created": "2025-01-08T14:48:08.397821Z",
+  "Updated": "2025-01-08T14:48:08.397821Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "notepad.exe Untitled - …",
+  "Type": "Element",
+  "Id": "OQJHzUUsw0CQHGTkkwHdnw",
+  "Reference": "7vll1z_1YEic7Fj5Ymo9Rw/OQJHzUUsw0CQHGTkkwHdnw",
+  "ParentRef": "7vll1z_1YEic7Fj5Ymo9Rw/gnA09Aqb-0Ss6QAdXBBStQ",
+  "Created": "2025-01-06T21:47:52.1228855Z",
+  "Updated": "2025-01-06T21:47:52.1228855Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

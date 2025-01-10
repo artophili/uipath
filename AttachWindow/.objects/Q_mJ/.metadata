@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome HTML Tables",
+  "Type": "App",
+  "Id": "Q_mJtR3X80S1xt8uK4aNJQ",
+  "Reference": "VrNr054cRkOc4fLdZ6ZFdg/Q_mJtR3X80S1xt8uK4aNJQ",
+  "Created": "2025-01-08T11:06:58.4331188Z",
+  "Updated": "2025-01-08T11:06:58.4331188Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

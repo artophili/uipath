@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome W3Schools Tryit Editor",
+  "Type": "Screen",
+  "Id": "OF4-nYx4HkSFkioeOvSThw",
+  "Reference": "ynnCWbijBkCTjYGEMdVngg/OF4-nYx4HkSFkioeOvSThw",
+  "ParentRef": "ynnCWbijBkCTjYGEMdVngg/v0NE9qomlka9AhOs4WW3hw",
+  "Created": "2025-01-08T14:48:08.5362976Z",
+  "Updated": "2025-01-08T14:48:08.5362976Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

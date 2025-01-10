@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Netflix India – Watch TV Shows Online, Watch Movies Online",
+  "Type": "App",
+  "Id": "iCYX2-0ns0qAdLSfL1kJOw",
+  "Reference": "POLGusrqgk6sd9FBvOHpmA/iCYX2-0ns0qAdLSfL1kJOw",
+  "Created": "2025-01-08T11:30:12.955486Z",
+  "Updated": "2025-01-08T11:30:12.955486Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

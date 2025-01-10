@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome HTML Tables",
+  "Type": "Screen",
+  "Id": "Y6OLWYSWFE2EUNmP_ikEvg",
+  "Reference": "VrNr054cRkOc4fLdZ6ZFdg/Y6OLWYSWFE2EUNmP_ikEvg",
+  "ParentRef": "VrNr054cRkOc4fLdZ6ZFdg/lLBSnzuT7EKu-kxX_ulWUA",
+  "Created": "2025-01-08T11:06:58.5118932Z",
+  "Updated": "2025-01-08T11:06:58.5118932Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

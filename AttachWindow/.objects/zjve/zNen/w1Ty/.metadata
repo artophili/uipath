@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA_Journal_NishuPatil.pdf",
+  "Type": "Screen",
+  "Id": "w1Tys57yqUOp0SKJoDuYsA",
+  "Reference": "VrNr054cRkOc4fLdZ6ZFdg/w1Tys57yqUOp0SKJoDuYsA",
+  "ParentRef": "VrNr054cRkOc4fLdZ6ZFdg/zNenwmOqwEa6kXnE6eLMNw",
+  "Created": "2025-01-08T11:06:29.4884392Z",
+  "Updated": "2025-01-08T11:06:29.4884392Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

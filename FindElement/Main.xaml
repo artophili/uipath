@@ -1,0 +1,147 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Services.RuntimeAnalyze</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Reflection.MetadataLoadContext</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.ViewModels</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="912.0000000000001,538.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="ui:UiElement" Name="foundElement" />
+      <Variable x:TypeArguments="x:String" Name="aname" />
+      <Variable x:TypeArguments="x:String" Name="attributeName" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence sap:VirtualizedContainerService.HintSize="516.8,828" sap2010:WorkflowViewState.IdRef="Sequence_2">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome Netflix India – Watch TV Shows Online,(2)" sap:VirtualizedContainerService.HintSize="483.2,439.2" sap2010:WorkflowViewState.IdRef="NApplicationCard_6" InteractionMode="DebuggerApi" ScopeGuid="0cefd408-f956-41e6-9af3-d5a7df5a0acf" Version="V2">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,190.4" sap2010:WorkflowViewState.IdRef="Sequence_7">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <ui:WaitUiElementAppear WaitActive="{x:Null}" WaitVisible="{x:Null}" DisplayName="Find Element 'SVG'" FoundElement="[foundElement]" sap:VirtualizedContainerService.HintSize="416,130.4" sap2010:WorkflowViewState.IdRef="WaitUiElementAppear_2">
+                <ui:WaitUiElementAppear.Target>
+                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="da898447-993a-4fad-982c-dbd3ade584fc" InformativeScreenshot="4af03960d4be6fa20d75dfb23b2ef09c" Selector="&lt;webctrl tag='H3' /&gt;">
+                    <ui:Target.TimeoutMS>
+                      <InArgument x:TypeArguments="x:Int32" />
+                    </ui:Target.TimeoutMS>
+                    <ui:Target.WaitForReady>
+                      <InArgument x:TypeArguments="ui:WaitForReady" />
+                    </ui:Target.WaitForReady>
+                  </ui:Target>
+                </ui:WaitUiElementAppear.Target>
+              </ui:WaitUiElementAppear>
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="-9, -9, 1938, 1038" BrowserType="Chrome" ContentHash="vDDBaQQTe0eux4eZtadMFA" IconBase64="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" InformativeScreenshot="7dc66767736308ed05ca400b4163c395.jpg" Reference="POLGusrqgk6sd9FBvOHpmA/2_XYK9QJVk-WEtd10465bg" Selector="&lt;html app='chrome.exe' title='Netflix India – Watch TV Shows Online, Watch Movies Online' /&gt;" Title="Netflix India – Watch TV Shows Online, Watch Movies Online" Url="https://www.netflix.com/in/" Version="V1" />
+        </uix:NApplicationCard.TargetApp>
+      </uix:NApplicationCard>
+      <uix:NGetAttributeGeneric x:TypeArguments="x:String" Attribute="innerText" DisplayName="Get Attribute" sap:VirtualizedContainerService.HintSize="483.2,220" sap2010:WorkflowViewState.IdRef="NGetAttributeGeneric`1_6" InUiElement="[foundElement]" Result="[attributeName]" Version="V4" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="483.2,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[attributeName.ToString]" />
+    </Sequence>
+  </Sequence>
+</Activity>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "RPA Practical Final Doc (1)  -  Protected View - Word",
+  "Type": "App",
+  "Id": "Iflv9OcHt0WFjSMPxfpXcg",
+  "Reference": "HE8HmNH5LEePGxnWK7CrIA/Iflv9OcHt0WFjSMPxfpXcg",
+  "Created": "2025-01-09T17:26:47.66325Z",
+  "Updated": "2025-01-09T17:26:47.66325Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

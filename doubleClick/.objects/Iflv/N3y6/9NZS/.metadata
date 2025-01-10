@@ -1,0 +1,13 @@
+﻿{
+  "Name": "RPA Practical Final Doc (1)  -  Protected Vie",
+  "Type": "Screen",
+  "Id": "9NZSXc1hxEeuQoJwmka1ZQ",
+  "Reference": "HE8HmNH5LEePGxnWK7CrIA/9NZSXc1hxEeuQoJwmka1ZQ",
+  "ParentRef": "HE8HmNH5LEePGxnWK7CrIA/N3y6zS8MVUScwuj30nw2ew",
+  "Created": "2025-01-09T17:26:47.8028827Z",
+  "Updated": "2025-01-09T17:26:47.8028827Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
