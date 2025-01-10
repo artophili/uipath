@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="H6NYEtZlB0aOjn_2--eYwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="3f1b287b-bfe9-4f76-b7f9-a0c7dfa61f3e" CvTextArea="985, 736, 106, 19" CvTextArgument="(355) YouTube" CvType="Text" DesignTimeRectangle="969, 635, 140, 140" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='(355) YouTube' role='link' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab' role='document' /&gt;&lt;ctrl name='(355) YouTube' role='link' automationid='' check:text='https://www.youtube.com/' /&gt;" Guid="7fa53989-aec6-4aba-9bf0-d7e8982984fe" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="37154f9bef15b4b62709f976a0cb2ac0.png" xmlns="">01AEJyG9kDkC4W0F5KqPYlw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
