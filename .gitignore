@@ -1,0 +1,17 @@
+# Ignore UiPath-specific temporary files
+*.screenshots
+*.local
+*.cache
+*.tmp
+
+# Ignore compiled packages
+*.nupkg
+
+# Ignore user-specific files
+.settings/
+.DS_Store
+Thumbs.db
+
+# Ignore logs and output directories
+Logs/
+Output/
